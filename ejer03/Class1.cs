@@ -8,5 +8,9 @@ namespace ejer03
 {
     public class Class1
     {
+        public int Resta(int Minuendo, int Substraendo)
+        {
+            return Minuendo - Substraendo;
+        }
     }
 }
